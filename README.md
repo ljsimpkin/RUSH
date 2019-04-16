@@ -1,4 +1,4 @@
 # RUSH
-Program that generates shape
+Program that generates shapes
 
 Compile using: gcc main.c ft_putchar.c {{function name}}
