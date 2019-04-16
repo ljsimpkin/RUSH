@@ -1,4 +1,4 @@
 # RUSH
-Program that writes shapes onto standard output generated from input parameters
+Program that generates shape
 
 Compile using: gcc main.c ft_putchar.c {{function name}}
